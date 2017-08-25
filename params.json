@@ -1,6 +1,0 @@
-{
-  "name": "247stoke",
-  "tagline": "The Definitive Local Guide",
-  "body": "### 247stoke.com\r\n247stoke.com is a local events and information site based on Wordpress. This repo is intended to house any specific custom changes I make to my own deployment. It probably isn't of interest to anyone else, but feel free to take a look. \r\n\r\n### Authors and Contributors\r\nAll customisations to a standard Wordpress installation are entirely done by Tim Boswell (@timboswell). \r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
